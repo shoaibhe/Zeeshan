@@ -10,4 +10,4 @@ build:
   tests:
     override:
       - chmod +x  GAMER || true  # Prevent failure if file doesn't exist
-      - python3 GAMER.py
+      - python3 soulcracks.py
